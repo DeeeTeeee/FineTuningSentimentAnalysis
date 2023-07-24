@@ -38,7 +38,7 @@ The both long command-lines have a same structure, they pipe multiple commands u
 !pip install huggingface_hub\
 !pip3 install -q transformers datasets
 
-🚀 **Usage**
+🚀 **Web-App Usage**
 -----------------
 To see how my app works:
 I have hosted it on huggingface for the public to use:
