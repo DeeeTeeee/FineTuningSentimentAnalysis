@@ -1,11 +1,12 @@
-# Project 🚧 : NLP 
+# Project 🚧 : NLP Project:
+## Fine-Tuning RoBERTa for COVID-19 Tweet Sentiment Classification
 
 ## Description 🆘
 
 This repository contains the ressources, notebooks and web-app to the NLP-related live project I took. The readme will introduce you to all you need to know about this project, especially Natural Language Processing data by `ZINDI`, the fine tunning, deployment to [huggingface](https://huggingface.co/). 
 
 ## Article:
-[Aticle on Medium] (https://medium.com/@davidanifowoshe/fine-tuning-roberta-for-covid-19-tweet-sentiment-classification-4063b85ff2e3)
+Read the [Aticle on Medium](https://medium.com/@davidanifowoshe/fine-tuning-roberta-for-covid-19-tweet-sentiment-classification-4063b85ff2e3)
 
 ## Assignments 📝 
 I fine tunned three models from the huggingface models:
